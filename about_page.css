@@ -1,0 +1,18 @@
+/* My About Page exercise, CSS */
+
+header {
+	font-family: "Monaco";
+}
+
+header, footer {
+	background-color: orange;
+}
+
+h2 {
+	font-family: "Helvetica";
+	color: grey;
+}
+
+.content-color {
+	color: green;
+}
